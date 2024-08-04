@@ -70,6 +70,6 @@ export const activityReducer = (
             activeId : ''
         }
     }
-
+    
     return state
 }
